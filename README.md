@@ -19,7 +19,8 @@ It includes visual insights like KPIs, product sales, regions, and trends.
 ---
 
 📸 Preview
-screenshots/dashboard-preview.png
+
+<img width="1920" height="1080" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/53a4c9f1-ed8a-4edb-a73e-6e599d31ad1a" />
 
 ---
 
