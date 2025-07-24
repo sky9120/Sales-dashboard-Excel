@@ -20,7 +20,7 @@ It includes visual insights like KPIs, product sales, regions, and trends.
 
 📸 Preview
 
-(screenshots(239).png)
+C:\Users\Akash\Pictures\Screenshots
 
 ---
 
